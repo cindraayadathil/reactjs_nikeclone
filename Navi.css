@@ -1,0 +1,33 @@
+.ms-auto{
+    font-size: 1px;
+}
+
+
+  .nav-2{
+    margin-left: 4rem;
+  }
+
+
+.carousel {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel-content {
+  /* display: flex; */
+  transition: transform 0.5s ease;
+}
+
+.item {
+  flex: 0 0 100%;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+h1{
+  font-family:  sans-serif;
+  font-weight: 1000;
+  font-size: 70px;
+}
